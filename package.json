@@ -1,0 +1,24 @@
+{
+  "name": "bible-glot",
+  "version": "1.0.0",
+  "description": "Serves translations of scraped Bible verses all on a single page",
+  "main": "server/main.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.71.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephenlam/bible-glot.git"
+  },
+  "author": "Stephen Lam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/stephenlam/bible-glot/issues"
+  },
+  "homepage": "https://github.com/stephenlam/bible-glot#readme"
+}
